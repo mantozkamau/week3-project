@@ -18,10 +18,9 @@ $(document).ready(function () {
 });
 var userName = " ";
 function myFunction(submit) {
-   
-    return userName;
+        document.getElementById("submit")
 
-}
+};
 alert("Hae" + userName + " we have received your message" + "." + "Thank you for reaching out to us")
 myFunction()
 
