@@ -1,3 +1,11 @@
+var userName = " ";
+function myFunction(submit) {
+    return userName;
+
+}
+alert("Hae" + userName + " we have received your message" + "." + "Thank you for reaching out to us")
+myFunction()
+
 $(document).ready(function () {
     $(".brand").click(function () {
         $(".brand img").toggle();
@@ -16,11 +24,4 @@ $(document).ready(function () {
     });
   
 });
-var userName = " ";
-function myFunction(submit) {
-    return userName;
-
-}
-alert("Hae" + userName + " we have received your message" + "." + "Thank you for reaching out to us")
-myFunction()
 
