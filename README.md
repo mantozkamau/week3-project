@@ -19,11 +19,11 @@ Known bugs
 there is no known bugs yet
 
 Technologies Used
-* HTML
+* HTML(for the stracture of the web)
 * CSS 
-* JavaScript
-* bootstrap
-* jquery
+* JavaScript(making the webpage interactive)
+* bootstrap(enhancing appearance)
+* jquery(making it interactive)
 
 contacts
 * email:[shadowmover360@gmail.com]
