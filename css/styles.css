@@ -1,0 +1,125 @@
+.top{
+background-image: url("/image/backgrounds/h_img.jpg");
+height: 80vh;
+width: 100%;
+padding: 14%;
+}
+.top h1{
+    text-align: center;
+    color:white;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+.about{
+    text-align: center;
+    font-size:large;
+}
+.service{
+    background-image: url("/image/backgrounds/s_image.jpg");
+    text-align: center;
+    font-size: large;
+    color: white;
+    height: 30vh;
+}
+.service h1{
+color: white;
+}
+.brand h1{
+font-size: medium;
+}
+.brand p{
+   display: none; 
+}
+.dev p{
+  display: none;  
+}
+.product p{
+    display: none;
+}
+/* .row{
+    margin-left: 1%;
+    padding: 20px;
+    margin-right: 2%;
+} */
+.row img{
+   padding: 2%; 
+}
+.con{
+    background-image: url("/image/backgrounds/c_image.jpg");
+    width: auto;
+}
+.con h1{
+    padding-top: 40px;
+    color:white;
+}
+.form{
+    text-align: center;
+}
+.text{
+ text-align: center;
+ margin-top: 40px; 
+ height: 50vh  
+ 
+}
+#name{
+width: 25%;
+border-radius: 5px;
+background: none;
+color: white;
+}
+#email{
+    width: 25%;
+    margin-left: 3%;
+    border-radius: 5px;
+    background: none;
+    color: white;
+
+}
+#msg{
+    height: 50%;
+    width: 55%;
+    border-radius: 5px;
+    background: none;
+    color: white;
+}
+#btn{
+    
+    padding-bottom:5%;
+    text-align: center;
+}
+
+.social{
+    text-align: center;
+    padding-bottom:0%;
+}
+footer{
+    text-align:center ;
+  
+}
+.footer h4{
+    font-size: small;
+}
+.view{
+ padding: 15%;   
+}
+#image{
+    text-align: center;
+}
+#mouce{
+    text-align: center;
+    padding: 13%;
+}
+.move{
+    position:relative;
+    padding:0;
+    width:300px;
+    display:block;
+    cursor:pointer;
+    overflow:hidden;
+    }
