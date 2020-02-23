@@ -23,5 +23,5 @@ function myFunction(submit) {
 
 }
 alert("Hae" + userName + " we have received your message" + "." + "Thank you for reaching out to us")
-myFunction();
+myFunction()
 
