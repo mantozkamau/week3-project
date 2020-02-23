@@ -4,7 +4,7 @@ A webpage a studio called Delani studio, 22/02/2019
 By Muthoni George
 
 Description
-This is a webpage for a studio called Delani .The wepage is to make it easy for the user to navigate ]
+This is a webpage for a studio called Delani .The wepage is to make it easy for the user to navigate the webpage ]
 
 * Setup/Installation Requirements
 * Clone this repository
