@@ -25,7 +25,10 @@ Technologies Used
 * bootstrap
 * jquery
 
-BDD
+contacts
+* email:[shadowmover360@gmail.com]
+* contact:0758685543
+* facebook:@georgemash
 
 
 License
