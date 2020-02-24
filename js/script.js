@@ -3,7 +3,7 @@ function myFunction(submit) {
     return userName;
 
 }
-alert("Hae" + userName + " we have received your message" + "." + "Thank you for reaching out to us")
+alert("Hae" + userName + " we have received your message" + "." + "Thank you for reaching out to us!")
 myFunction()
 
 $(document).ready(function () {
