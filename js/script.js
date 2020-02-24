@@ -1,11 +1,3 @@
-var userName = " ";
-function myFunction(submit) {
-    return userName;
-
-}
-alert("Hae" + userName + " we have received your message" + "." + "Thank you for reaching out to us!")
-myFunction()
-
 $(document).ready(function () {
     $(".brand").click(function () {
         $(".brand img").toggle();
@@ -19,9 +11,43 @@ $(document).ready(function () {
         $(".product img").toggle();
         $("#fluid p").toggle();
     });
-    $(".row").hover(function () {
-        $("#first").toggle();
+    $("#one").hover(function () {
+        $("#first").slideToggle();
+    });
+    $("#two").hover(function(){
+        $("#test").SlideToggle();
+    });
+    $("#three").hover(function(){
+        $("#set").slideToggle();
+    });
+    $("#four").hover(function(){
+        $("#st").slideToggle();
+    });
+    $("#five").hover(function(){
+        $("#work").slideToggle();
+    });
+
+    $("#six").hover(function(){
+        $("#stdi").slideToggle();
+    });
+
+    $("#seven").hover(function(){
+        $("#std").slideToggle();
+    });
+
+    $("#eight").hover(function(){
+        $("#studio").slideToggle();
     });
   
 });
+
+
+function myFunction(name) {
+    var name = document.getElementById("name").value
+    var email = document.getElementById("email").value
+    
+    alert("Hae" + " " + name + " we have received your message. Thank you for reaching out to us")
+
+
+}
 
