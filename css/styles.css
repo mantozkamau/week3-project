@@ -23,9 +23,10 @@
     .service{
         background-image: url("/image/backgrounds/s_image.jpg");
         text-align: center;
-        font-size: large;
-        color: white;
+        font-size: larger;
+        color:whitesmoke;
         height: 30vh;
+        font-family: 'Courgette';
     }
     .service h1{
     color: white;
@@ -42,11 +43,11 @@
     .product p{
         display: none;
     }
-     .row{
+    /* .row{
         margin-left: 1%;
         padding: 20px;
         margin-right: 2%;
-    } 
+    } */
     .row img{
        padding: 2%; 
     }
@@ -116,10 +117,57 @@
         padding: 13%;
     }
     .move{
-        position:relative;
+        /* position:relative; */
         padding:0;
         width:300px;
         display:block;
         cursor:pointer;
         overflow:hidden;
-        } 
+        }
+    /* #one{
+        opacity: 0.5;
+    } */
+    .next{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        color:white;
+        transform: translate(-50% ,-50%);
+        border: 5px solid gray;
+        display: none;
+        border-radius: 15px;
+    
+    }
+    #one:hover {
+        position: relative;
+        opacity: 0.8;
+    }
+    #two:hover {
+        position: relative;
+        opacity: 0.8;
+    }
+    #three:hover {
+        position: relative;
+        opacity: 0.8;
+    }
+    #four:hover {
+        position: relative;
+        opacity: 0.8;
+    }
+    #five:hover {
+        position: relative;
+        opacity: 0.8;
+    }
+    #six:hover {
+        position: relative;
+        opacity: 0.8;
+    }
+    #seven:hover {
+        position: relative;
+        opacity: 0.8;
+    }
+    #eight:hover {
+        position: relative;
+        opacity: 0.8;
+        color: turquoise;
+    }
