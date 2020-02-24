@@ -1,4 +1,4 @@
-.top{
+ .top{
 background-image: url("/image/backgrounds/h_img.jpg");
 height: 80vh;
 width: 100%;
@@ -42,11 +42,11 @@ font-size: medium;
 .product p{
     display: none;
 }
-/* .row{
+ .row{
     margin-left: 1%;
     padding: 20px;
     margin-right: 2%;
-} */
+} 
 .row img{
    padding: 2%; 
 }
@@ -122,4 +122,4 @@ footer{
     display:block;
     cursor:pointer;
     overflow:hidden;
-    }
+    } 
