@@ -1,5 +1,5 @@
 .top{
-    background-image: url("/image/backgrounds/h_img.jpg");
+    background-image: url("../image/backgrounds/h_img.jpg");
     height: 80vh;
     width: 100%;
     padding: 14%;
@@ -21,7 +21,7 @@
         font-size:large;
     }
     .service{
-        background-image: url("/image/backgrounds/s_image.jpg");
+        background-image: url("../image/backgrounds/s_image.jpg");
         text-align: center;
         font-size: larger;
         color:whitesmoke;
@@ -52,7 +52,7 @@
        padding: 2%; 
     }
     .con{
-        background-image: url("/image/backgrounds/c_image.jpg");
+        background-image: url("../image/backgrounds/c_image.jpg");
         width: auto;
     }
     .con h1{
