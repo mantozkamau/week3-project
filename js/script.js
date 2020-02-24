@@ -44,10 +44,13 @@ $(document).ready(function () {
 
 function myFunction(name) {
     var name = document.getElementById("name").value
-    var email = document.getElementById("email").value
-    
-    alert("Hae" + " " + name + " we have received your message. Thank you for reaching out to us")
+    if(name<=0||mail<=0){
+        alert("filds can't be empty")
+     
 
+    }
+    alert("Hae" + " " + name + " we have received your message. Thank you for reaching out to us")
+  
 
 }
 
