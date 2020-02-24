@@ -16,8 +16,9 @@ This is a webpage for a studio called Delani .The wepage is to make it easy for 
 * styles.css
 * jquery.js
 
-Known bugs
-there is no known bugs yet
+Known Bugs
+
+*There is no known bugs yet
 
 Technologies Used
 * HTML(for the stracture of the web)
