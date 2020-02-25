@@ -12,11 +12,11 @@ To do any changes in this project:
 *open* `index.html` file.
 
 ## Technologies used.
-* HTML5
+* BOOTSTRAP
 * CSS
-* Bootstrap
-* Javascript
-* JQuery
+* HTML
+* JQUERY
+* JAVASCRIPT
 ## BDD
 | Inputs |  Description |
 | :---         |          ---: |
