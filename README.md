@@ -33,4 +33,4 @@ contacts
 * facebook:@georgemash
 
 ## license
-[MIT LICENSE]()&copy; 2020 George kamau
+[MIT LICENSE](https://github.com/mantozkamau/week3-project/blob/master/LICENSE)&copy; 2020 George kamau
