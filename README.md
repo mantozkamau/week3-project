@@ -32,4 +32,5 @@ contacts
 * contact:0758685543
 * facebook:@georgemash
 
-
+## license
+[licence] ()&copy; 2020 George kamau
