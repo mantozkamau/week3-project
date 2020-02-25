@@ -4,7 +4,7 @@
 It  is a project for  Delani studio that  is build to help clients navigate easly on the webpage searching for services
 ## Author
 >George kamau
-## Setup.
+## installation.
 To do any changes in this project:
 `git clone`https://github.com/mantozkamau/week3-project
 `Extract` the cloned file.
