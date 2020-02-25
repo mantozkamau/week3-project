@@ -33,4 +33,4 @@ contacts
 * facebook:@georgemash
 
 ## license
-[licence] ()&copy; 2020 George kamau
+[MIT LICENSE]()&copy; 2020 George kamau
