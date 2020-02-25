@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .top{
     background-image: url("/image/backgrounds/h_img.jpg");
     height: 80vh;
@@ -50,7 +53,13 @@
     
    
     }
- 
+  
+    .con{
+        background-image: url("/image/backgrounds/c_image.jpg");
+    
+    }
+  
+
     .con h1{
         padding-top: 40px;
         color:white;
