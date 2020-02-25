@@ -1,36 +1,31 @@
-DELANI STUDIO
+# Delani Studio
+[ have a look ](https://github.com/mantozkamau/week3-project )
+## Description.
+It  is a project for  Delani studio that  is build to help clients navigate easly on the webpage searching for services
+## Author
+>George kamau
+## Setup.
+To do any changes in this project:
+`git clone`https://github.com/mantozkamau/week3-project
+`Extract` the cloned file.
+`cd` to Studio-Delani folder.
+*open* `index.html` file.
 
-A webpage a studio called Delani studio, 22/02/2019
+## Technologies used.
+* HTML5
+* CSS
+* Bootstrap
+* Javascript
+* JQuery
+## BDD
+| Inputs |  Description |
+| :---         |          ---: |
+| Name   | The user's name. `George kamau`|
+| Email     | The user's email. ``eg yourmail@gmail.com``   |
+| Message    | The feedback from the user.   |
 
-By Muthoni George
-
-Description
-This is a webpage for a studio called Delani .The wepage is to make it easy for the user to navigate the webpage,the user is also able to write a feedback inform of a message on sendind receives a pop to inform their message is received[]
-
-* Setup/Installation Requirements
-* Clone this repository
-* cd to week3
-* touch;
-* index.html
-* script.js
-* styles.css
-* jquery.js
-
-Known Bugs
-
-*There is no known bugs yet
-
-Technologies Used
-* HTML(for the stracture of the web)
-* CSS 
-* JavaScript(making the webpage interactive)
-* bootstrap(enhancing appearance)
-* jquery(making it interactive)
-
-contacts
-* email:[shadowmover360@gmail.com]
-* contact:0758685543
-* facebook:@georgemash
+## Bugs.
+1. The alert is 99% accurate.
 
 ## license
-[MIT LICENSE](https://github.com/mantozkamau/week3-project/blob/master/LICENSE)&copy; 2020 George kamau
+[LICENSE](https://github.com/mantozkamau/week3-project/blob/master/LICENSE)&copy; 2020 George kamau

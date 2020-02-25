@@ -46,16 +46,11 @@
     
     .row img{
        padding: 5%; 
-       text-align: center;
-     
+       
+    
    
     }
-    .con{
-        background-image: url("/image/backgrounds/c_image.jpg");
-        width: auto;
-    }
-  
-
+ 
     .con h1{
         padding-top: 40px;
         color:white;
