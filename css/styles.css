@@ -47,11 +47,13 @@
     .product p{
         display: none;
     }
-    /* .row{
-        margin-left: 1%;
-        padding: 20px;
-        margin-right: 2%;
-    } */
+   .row{
+       overflow-x: hidden;
+   }
+   .top{
+       overflow-y: hidden;
+   }
+   
     .row img{
        padding: 2%; 
     }
