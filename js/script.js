@@ -45,7 +45,7 @@ $(document).ready(function () {
 function myFunction(name) {
 var name = document.getElementById("name").value
   if(name<=0){
-      alert("invalid input")
+      alert("Fields cant't be empty")
   }
   else{
     alert("Hae" + " " + name + " we have received your message. Thank you for reaching out to us");
